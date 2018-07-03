@@ -1,6 +1,6 @@
 """
 	PSO算法的主逻辑脚本
-	编写人：邢旭东
+	编写人：XingXudong
 	邮箱：xd_xing@sina.com
 	时间：2018.06.29
 	版本：v0.1
